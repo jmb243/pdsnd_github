@@ -39,12 +39,16 @@ It was about to provide the following information: The total travel time and the
 It was about to provide the following information: counts of each user type, counts of each gender, the most recent and most common year of birth.
 
 
-After providing those statistics, I wrote code to ask user if he want to display the first 5 rows of data. If the answer is " yes ", then informations are displayed, but if the answer is " no ", I asked him if he want to restart.
+So,after providing those statistics, I wrote code to ask user if he want to display the first 5 rows of data. If the answer is " yes ", then informations are displayed, but if the answer is " no ", I asked him if he want to restart. If the answer is "yes" then the program will be restarted but if the answer is " no " then he left the program.
 
 
 
 ### Files used
-I used chicago.csv, New_York_City.csv and Washington.csv.
+Chicago.csv, 
+New_York_City.csv,
+Washington.csv.
+
+### credits
 
 
 
