@@ -15,10 +15,10 @@ In this project, I used Python to explore data related to bike share systems for
 
 So for making this project alive, I used data provided by Motivate, a bike share system provider for many major cities in the United States, to uncover bike share usage patterns. 
 
-About datasets, I used data for the first six months of 2017 for all three cities.
+About datasets used, I used data for the first six months of 2017 for all three cities.
 
 I learned about bike share used in Chicago, New York City, and Washington by computing a variety of descriptive statistics.
-First of all, user had to choose the city, the month and the day that he wanted to see information from. According to the information provided by the user, I wrote code to provide the following statistics:
+First of all, user had to choose the city, the month and the day that he wanted to see information from. According to the inputs provided by the user, I wrote code to provide the following statistics:
 
 
 #1 The Popular times of travel
