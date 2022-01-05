@@ -63,7 +63,7 @@
     "        day = input (\" Please, choose a day between monday, tuesday, wednesday, thursday, friday, saturday or sunday? \").lower()\n",
     "        days = ['monday','tuesday','wednesday','thursday','friday','saturday','sunday']\n",
     "        if day != 'all' and day not in days :\n",
-    "            print('We are sorry, you provided an invalid day. Enter a valid day by choosing between monday, tuesday, wednesday, thursday, friday, saturday or sunday ')   \n",
+    "            print('We are very sorry, you provided an invalid day. You have to enter a valid day by choosing between monday, tuesday, wednesday, thursday, friday, saturday or sunday ')   \n",
     "        else:\n",
     "            break   \n",
     "        \n",
