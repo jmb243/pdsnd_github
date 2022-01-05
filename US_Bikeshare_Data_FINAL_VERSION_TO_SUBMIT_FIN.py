@@ -43,7 +43,7 @@
     "    while True:\n",
     "        city = input(\"Would you like to see data for chicago, new york, or washington ? \").lower()\n",
     "        if city not in(CITY_DATA.keys()):\n",
-    "            print('We are very sorry, you provided an invalid city name. Please, you have to provide a correct city name by choosing between chicago, new york or washington')\n",
+    "            print('We are very sorry, the city name you provided is not correct. Please, you have to provide a correct city name by choosing between chicago, new york or washington')\n",
     "        else :\n",
     "            break\n",
     "   \n",
