@@ -9,7 +9,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Hello! Let's explore some US bikeshare data!\n"
+      "Good morning! Welcome to our system! Let's explore some US bikeshare data!\n"
      ]
     }
    ],
